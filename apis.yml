@@ -23,6 +23,16 @@ url: https://raw.githubusercontent.com/api-evangelist/mandt-bank/refs/heads/main
 tags:
 - Banking
 - Commercial Banking
+- Financial-Services
+- Mortgage
+- Regional Bank
+- Retail Banking
+- Treasury Management
+- Wealth Management
+- Fortune 1000
+tags_raw:
+- Banking
+- Commercial Banking
 - Financial Services
 - Mortgage
 - Regional Bank
